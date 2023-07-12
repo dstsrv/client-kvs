@@ -1,10 +1,8 @@
 {
     "value": 100,
-    "conditions": [
-        {
-            "a1": {
-                "$eq": 2
-            }
+    "conditions": {
+        "a1": {
+            "$eq": 2
         }
-    ]
+    }
 }
